@@ -6,10 +6,10 @@ Author: Yohan Hmaiti
 *Tools: (File I/O, Vigenere Cipher, Bitwise Operators)
 
 To Compile: 
- gcc -o <filename> <filename>.c
+ gcc -o filename filename.c
 
 To Execute: 
- c -> ./<filename> kX.txt pX.txt
+ c -> ./filename kX.txt pX.txt
  
  where kX.txt is the keytext file
  and pX.txt is plaintext file
