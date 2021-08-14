@@ -13,6 +13,8 @@ Author: Yohan Hmaiti
 => The game has the option to get learning links regarding multiple characteristics of sudoku
 => ranging from its definition, history, improving skills of it and so forth and so on
 
+Tools: (Backtracking, stdboolean.h/ ctype.h/ Linked Lists/ Stacks/ Memory Management/ Pointers/ Structures)
+
 *** Functionalities: ***
 
  1. see the definition and history of sudoku along with the links regarding sudoku's definition/history/learning/mastering
