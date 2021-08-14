@@ -6,7 +6,7 @@ Author: Yohan Hmaiti
 *Tools: (File I/O, Vigenere Cipher, Bitwise Operators)
 
 To Compile: 
- gcc -o <filename> >filename>.c
+ gcc -o <filename> <filename>.c
 
 To Execute: 
  c -> ./<filename> kX.txt pX.txt
